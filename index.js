@@ -8,7 +8,7 @@ it('is set as Scuber', function () {
 
  var companyName ='Scuber';
  it('does not raise error if the Scuber is changed', function () {
-    expect(test).to.throw(error);
+    expect(companyName).to.throw(error);
     });
 
 
