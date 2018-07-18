@@ -4,10 +4,6 @@
 let companyName = 'Scuber';
 
 
-
- 
-
-
 var mostProfitableNeighborhood = 'Chelsea';
 
 
