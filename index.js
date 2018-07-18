@@ -4,7 +4,7 @@
 var companyName = 'Scuber';
 
 
-let companyName ='Scuber';
+var companyName ='Scuber';
  
 
 
